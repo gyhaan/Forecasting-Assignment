@@ -1,0 +1,2 @@
+Experiment,Parameters,Validation RMSE
+1,"Units: 100, Layers: 3, Dropout: 0.3, LR: 0.001, Batch: 32, Epochs: 25, Optimizer: adam",82.10738628860948

@@ -1,0 +1,16 @@
+Experiment,Parameters,Validation RMSE
+1,"Units: 50, Layers: 2, Dropout: 0.2, LR: 0.001, Batch: 32, Epochs: 30, Optimizer: adam",83.42003121174322
+2,"Units: 64, Layers: 2, Dropout: 0.2, LR: 0.001, Batch: 32, Epochs: 35, Optimizer: adam",134.11325078651979
+3,"Units: 100, Layers: 2, Dropout: 0.3, LR: 0.0005, Batch: 64, Epochs: 40, Optimizer: adam",141.02411337108154
+4,"Units: 50, Layers: 3, Dropout: 0.2, LR: 0.001, Batch: 32, Epochs: 30, Optimizer: adam",137.6544392470769
+5,"Units: 64, Layers: 2, Dropout: 0.3, LR: 0.0005, Batch: 64, Epochs: 35, Optimizer: adam",145.21630222711647
+6,"Units: 100, Layers: 2, Dropout: 0.2, LR: 0.001, Batch: 32, Epochs: 30, Optimizer: rmsprop",125.069374213117
+7,"Units: 50, Layers: 2, Dropout: 0.3, LR: 0.0001, Batch: 64, Epochs: 40, Optimizer: adam",149.98688498675398
+8,"Units: 64, Layers: 3, Dropout: 0.2, LR: 0.001, Batch: 32, Epochs: 35, Optimizer: adam",134.28744795718055
+9,"Units: 100, Layers: 2, Dropout: 0.3, LR: 0.0005, Batch: 32, Epochs: 30, Optimizer: rmsprop",136.24718444139327
+10,"Units: 50, Layers: 2, Dropout: 0.2, LR: 0.0005, Batch: 64, Epochs: 35, Optimizer: adam",145.94904967971001
+11,"Units: 64, Layers: 2, Dropout: 0.2, LR: 0.001, Batch: 16, Epochs: 30, Optimizer: adam",123.73086000647685
+12,"Units: 100, Layers: 3, Dropout: 0.3, LR: 0.001, Batch: 32, Epochs: 35, Optimizer: adam",126.81852443161951
+13,"Units: 50, Layers: 2, Dropout: 0.2, LR: 0.0001, Batch: 32, Epochs: 40, Optimizer: rmsprop",148.35545643106255
+14,"Units: 64, Layers: 2, Dropout: 0.3, LR: 0.0005, Batch: 32, Epochs: 30, Optimizer: adam",140.87732882417023
+15,"Units: 100, Layers: 2, Dropout: 0.2, LR: 0.001, Batch: 64, Epochs: 35, Optimizer: adam",135.8488896398969
